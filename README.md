@@ -14,7 +14,7 @@ Here is a list of the projects contained in this repository, classified accordin
 
 **Vision:**
 
-- **[rainforest-audio](https://github.com/luca-martial/fastai-v2-projects/tree/master/mask-wear)**: The goal of this project was to build a machine learning model that predicts which species are present in rainforest audio recordings. My best submission scored a LWLRAP of 0.7 
+- **[rainforest-audio](https://github.com/luca-martial/fastai-v2-projects/tree/main/rainforest-audio)**: The goal of this project was to build a machine learning model to automate the detection of bird and frog species in tropical soundscape recordings, as part of a Kaggle competition. The models had to be created with limited, acoustically complex training data. My best submission scored a label-weighted label-ranking average precision of 0.71 on the private leaderboard.
 
 ## Contributing
 
