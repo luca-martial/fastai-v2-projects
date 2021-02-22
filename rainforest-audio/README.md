@@ -1,3 +1,7 @@
-# Classifying Endangered Birds From the Prek Toal Reserve
+# Rainforest Connection Species Audio Detection
 
-The goal of this project was to build an image classifier that identifies different endangered waterbird species present throughout the Prek Toal Reserve in Cambodia. This classifier has the potential to bring support to NGOs such as [Osmose](http://osmosetonlesap.net/wp/index.php/en/home/) which ensure the protection of waterbird colonies throughout the reproductive cycle. Data was collected using Google Images.
+## Automate the detection of bird and frog species in a tropical soundscape
+
+Rainforest Connection (RFCx) created the world’s first scalable, real-time monitoring system for protecting and studying remote ecosystems. Unlike visual-based tracking systems like drones or satellites, RFCx relies on acoustic sensors that monitor the ecosystem soundscape at selected locations year round. RFCx technology has advanced to support a comprehensive biodiversity monitoring program that allows local partners to measure progress of wildlife restoration and recovery through principles of adaptive management.
+
+The goal of this project was to build a machine learning model to automate the detection of bird and frog species in tropical soundscape recordings, as part of a Kaggle competition. The models had to be created with limited, acoustically complex training data. My best submission scored a label-weighted label-ranking average precision of 0.71 on the private leaderboard.
